@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " E ",
+    " C ",
+    " S "
+  ],
+  "key": {
+    "E": { "item": "minecraft:emerald" },
+    "C": { "item": "minecraft:chain" },
+    "S": { "item": "minecraft:slime_ball" }
+  },
+  "result": { "id": "sandevistan:sandevistan", "count": 1 }
+}
